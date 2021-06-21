@@ -1,0 +1,1 @@
+export DATABASE_NAME=interviews && export DATABASE_PASSWORD=postgres && export DATABASE_USER=postgres && export DATABASE_HOST='127.0.0.1' && python manage.py runserver
